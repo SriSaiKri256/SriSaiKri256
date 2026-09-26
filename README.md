@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Sri Sai Krishnakumar (she/they), and I'm currently an undergraduate student at the University of Pittsburgh!  
+I am a computational biology major, and I am pursuing a minor in chemistry.  
+I am looking to increase my coding experience, especially in python.
+
 <!--
 **SriSaiKri256/SriSaiKri256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
