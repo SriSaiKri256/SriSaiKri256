@@ -1,0 +1,9 @@
+## This is a new text file
+
+## The Goal
+- this is supposed to be me testing whether I know how to create a new text file, make changes, commit changes,  
+request a pull, and merch work from one branch to another  
+  
+If i run into any troubles, I want to deal with them now instead of waiting to fix them when I am in a rush
+
+
